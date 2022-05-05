@@ -1,0 +1,36 @@
+#scrollspyHeading1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    background-color: rgb(67, 84, 241);
+}
+#scrollspyHeading2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    background-color: rgb(67, 84, 241);
+}
+#scrollspyHeading3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    background-color: rgb(67, 84, 241);
+}
+#scrollspyHeading4{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    background-color: rgb(67, 84, 241);
+}
+.name{
+    color: rgb(9, 12, 172);
+    background-color: rgb(238, 207, 236);
+}
+.gt{
+     width: 10%;
+    background-color: rgb(229, 233, 27);
+}
+.nt{
+    background-color: rgb(248, 94, 202);
+}
+ 

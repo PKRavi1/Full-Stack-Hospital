@@ -1,0 +1,21 @@
+.bcl-1{
+    background-color: rgba(10, 182, 167, 0.788);
+    width: 50%;
+}
+.card-body{
+    background-color: rgb(5, 68, 42);
+    color: rgb(217, 240, 13);
+}
+.card-title{
+    color:rgb(243, 20, 94)
+}
+.card-add{
+    color:rgb(196, 236, 17)
+}
+.my-body{
+    background-color: rgb(189, 147, 93);
+}
+.form-center{
+    display:flex;
+  justify-content: center;
+}
